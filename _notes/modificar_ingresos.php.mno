@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ingreos" value="name:fecha;datatype:date,name:monto;datatype:int,name:observaciones;datatype:string" />
+</info>

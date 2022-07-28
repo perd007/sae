@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_cajas" value="name:id_caja;datatype:int,name:fecha_ap;datatype:datetime,name:fecha_ci;datatype:datetime,name:estado;datatype:string" />
+	<infoitem key="UD_permisos" value="name:id_permisos_usuarios;datatype:int,name:id_usuario;datatype:int,name:p;datatype:int,name:f;datatype:int,name:c;datatype:int,name:a;datatype:int,name:v;datatype:int,name:r;datatype:int,name:cl;datatype:int,name:prv;datatype:int,name:s;datatype:int,name:u;datatype:int,name:ac;datatype:int,name:cc;datatype:int" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_producto" value="name:id_productos;datatype:int,name:tipo;datatype:string,name:marca;datatype:string,name:modelo;datatype:string,name:nombre;datatype:string,name:codigo;datatype:string,name:serial;datatype:string,name:chasis;datatype:string,name:motor;datatype:string,name:placa;datatype:string,name:descripcion;datatype:string" />
+	<infoitem key="UD_pedidos" value="name:id_pedidos;datatype:int,name:fecha;datatype:date,name:id_cliente;datatype:int,name:correlativo;datatype:string,name:total;datatype:real,name:iva;datatype:real,name:subtotal;datatype:real" />
+	<infoitem key="UD_clientes" value="name:id_clientes;datatype:int,name:nombres;datatype:string,name:telefono;datatype:string,name:cedula;datatype:int,name:direccion;datatype:string,name:tipo;datatype:string" />
+</info>

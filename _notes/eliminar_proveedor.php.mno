@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_compras" value="name:id_compras;datatype:int,name:fecha;datatype:date,name:num_fac;datatype:string,name:proveedor;datatype:string" />
+</info>

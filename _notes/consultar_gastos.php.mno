@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_proveedores" value="name:id_proveedor;datatype:int,name:rif;datatype:string,name:nombre;datatype:string,name:tipo;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string" />
+	<infoitem key="UD_gastos" value="name:id_gastos;datatype:int,name:monto;datatype:real,name:descripcion;datatype:string,name:tipo;datatype:string,name:clasificacion;datatype:string,name:fecha;datatype:date,name:periodo;datatype:string" />
+</info>

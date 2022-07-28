@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_compras" value="name:id_compras;datatype:int,name:fecha;datatype:date,name:num_fac;datatype:string,name:proveedor;datatype:string" />
+	<infoitem key="UD_proveedor" value="name:id_proveedor;datatype:int,name:rif;datatype:string,name:nombre;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id_compras;datatype:int,name:fecha;datatype:date,name:num_fac;datatype:string,name:proveedor;datatype:string" />
+	<infoitem key="UD_CP" value="name:id_compra_productos;datatype:int,name:producto;datatype:int,name:precio;datatype:real,name:factura;datatype:string,name:cantidad;datatype:int,name:transaccion;datatype:string" />
+	<infoitem key="UD_C2P" value="name:id_compra_productos;datatype:int,name:producto;datatype:int,name:precio;datatype:real,name:factura;datatype:string,name:cantidad;datatype:int,name:transaccion;datatype:string" />
+	<infoitem key="UD_CP2" value="name:id_compra_productos;datatype:int,name:producto;datatype:int,name:precio;datatype:real,name:factura;datatype:string,name:cantidad;datatype:int,name:transaccion;datatype:string" />
+</info>

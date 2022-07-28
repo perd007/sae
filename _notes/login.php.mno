@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_permisos" value="name:id_permisos_usuarios;datatype:int,name:id_usuario;datatype:int,name:p;datatype:int,name:f;datatype:int,name:c;datatype:int,name:a;datatype:int,name:v;datatype:int,name:r;datatype:int,name:cl;datatype:int,name:prv;datatype:int,name:s;datatype:int,name:u;datatype:int" />
+</info>

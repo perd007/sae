@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_productos_pedidos" value="name:id_pedido_productos;datatype:int,name:id_producto;datatype:int,name:id_pedido;datatype:string,name:cantidad;datatype:int,name:precio;datatype:real" />
+	<infoitem key="UD_productos" value="name:id_productos;datatype:int,name:tipo;datatype:string,name:marca;datatype:string,name:modelo;datatype:string,name:nombre;datatype:string,name:codigo;datatype:string,name:serial;datatype:string,name:chasis;datatype:string,name:motor;datatype:string,name:placa;datatype:string,name:ano;datatype:int,name:descripcion;datatype:string" />
+	<infoitem key="UD_clientes" value="name:id_clientes;datatype:int,name:nombres;datatype:string,name:telefono;datatype:string,name:cedula;datatype:string,name:direccion;datatype:string,name:tipo;datatype:string" />
+	<infoitem key="UD_pedido" value="name:id_pedidos;datatype:int,name:fecha;datatype:datetime,name:id_cliente;datatype:string,name:correlativo;datatype:string,name:total;datatype:real,name:iva;datatype:real,name:subtotal;datatype:real" />
+	<infoitem key="UD_facturas" value="name:max(serie);datatype:string" />
+	<infoitem key="UD_caja" value="name:id_caja;datatype:int,name:fecha_ap;datatype:datetime,name:fecha_ci;datatype:datetime,name:estado;datatype:string" />
+	<infoitem key="UD_datos" value="name:serial;datatype:string,name:chasis;datatype:string,name:motor;datatype:string,name:placa;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_almacen" value="name:id_almacen;datatype:int,name:id_producto;datatype:int,name:factura_compra;datatype:string,name:cantida;datatype:int,name:transaccion;datatype:string" />
+	<infoitem key="UD_producto" value="name:id_productos;datatype:int,name:tipo;datatype:string,name:marca;datatype:string,name:modelo;datatype:string,name:nombre;datatype:string,name:codigo;datatype:string,name:serial;datatype:string,name:chasis;datatype:string,name:motor;datatype:string,name:placa;datatype:string,name:descripcion;datatype:string" />
+</info>

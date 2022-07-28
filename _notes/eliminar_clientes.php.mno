@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pedidos" value="name:id_pedidos;datatype:int,name:fecha;datatype:datetime,name:id_cliente;datatype:string,name:correlativo;datatype:string,name:total;datatype:real,name:iva;datatype:real,name:subtotal;datatype:real" />
+	<infoitem key="UD_facturas" value="name:id_facturas;datatype:int,name:id_cliente;datatype:string,name:fecha;datatype:datetime,name:serie;datatype:string,name:numero;datatype:string,name:sub_total;datatype:real,name:iva;datatype:real,name:total;datatype:real,name:transaccion;datatype:string" />
+</info>

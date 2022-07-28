@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_gastos" value="name:id_gastos;datatype:int,name:monto;datatype:real,name:descripcion;datatype:string,name:tipo;datatype:string,name:clasificacion;datatype:string,name:fecha;datatype:date,name:periodo;datatype:string" />
+</info>

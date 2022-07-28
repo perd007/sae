@@ -1,0 +1,36 @@
+@charset "utf-8";
+.negrita {
+	font-weight: bold;
+	
+}
+
+
+.trListaBody {
+	background-color:#E9E9E9;
+	
+	
+}
+
+.trListaBodySel {
+
+	background-color:#228DD0;
+
+}
+
+.trListaBody:hover {
+	background-color:#F5F5DB;
+	cursor:pointer;
+}
+
+.trListaBodySel:hover {
+	background-color:#228DD0;
+}
+
+.tblLista {
+	border-collapse:collapse;
+	border:solid 1px #BBBBBB;
+	margin-left:auto;
+	margin-right:auto;
+}.bordes_negros {
+	border: thin solid #000;
+}

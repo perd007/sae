@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_compras" value="name:id_compras;datatype:int,name:fecha;datatype:date,name:num_fac;datatype:string,name:proveedor;datatype:string,name:fiador;datatype:string,name:fecha_limite;datatype:date,name:estatus;datatype:string,name:subtotal;datatype:real,name:iva;datatype:real,name:total;datatype:real" />
+	<infoitem key="UD_compra_prodcutos" value="name:id_compra_productos;datatype:int,name:producto;datatype:int,name:precio;datatype:real,name:factura;datatype:string,name:cantidad;datatype:int,name:transaccion;datatype:string" />
+</info>

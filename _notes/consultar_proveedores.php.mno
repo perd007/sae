@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_prove" value="name:id_proveedor;datatype:int,name:rif;datatype:string,name:nombre;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string" />
+</info>

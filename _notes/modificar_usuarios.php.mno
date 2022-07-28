@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_empleado" value="name:id_empleado;datatype:int,name:cedula;datatype:int,name:nombres;datatype:string,name:cargo;datatype:string,name:direccion;datatype:string,name:telefono;datatype:string" />
+	<infoitem key="UD_usuario" value="name:id_usuarios;datatype:int,name:id_empleado;datatype:int,name:login;datatype:string,name:clave;datatype:string" />
+	<infoitem key="UD_permisos" value="name:id_permisos_usuarios;datatype:int,name:id_usuario;datatype:int,name:p;datatype:int,name:f;datatype:int,name:c;datatype:int,name:a;datatype:int,name:v;datatype:int,name:r;datatype:int,name:cl;datatype:int,name:prv;datatype:int,name:s;datatype:int,name:u;datatype:int" />
+	<infoitem key="UD_valUsu" value="name:id_usuarios;datatype:int,name:id_empleado;datatype:int,name:login;datatype:string,name:clave;datatype:string" />
+	<infoitem key="UD_valEmp" value="name:id_empleado;datatype:int,name:cedula;datatype:int,name:nombres;datatype:string,name:cargo;datatype:string,name:direccion;datatype:string,name:telefono;datatype:string" />
+</info>

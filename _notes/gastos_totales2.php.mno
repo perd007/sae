@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_compras" value="name:id_compras;datatype:int,name:fecha;datatype:date,name:num_fac;datatype:string,name:proveedor;datatype:string,name:fiador;datatype:string,name:fecha_limite;datatype:date,name:estatus;datatype:string,name:subtotal;datatype:real,name:iva;datatype:real,name:total;datatype:real" />
+	<infoitem key="UD_compras_productos" value="name:id_compra_productos;datatype:int,name:producto;datatype:int,name:precio;datatype:real,name:factura;datatype:string,name:cantidad;datatype:int,name:transaccion;datatype:string" />
+	<infoitem key="UD_gastos" value="name:id_gastos;datatype:int,name:monto;datatype:real,name:descripcion;datatype:string,name:tipo;datatype:string,name:clasificacion;datatype:string,name:fecha;datatype:date,name:periodo;datatype:string" />
+	<infoitem key="UD_gastos1" value="name:sum(monto);datatype:real" />
+	<infoitem key="UD_gastos2" value="name:sum(monto);datatype:real" />
+	<infoitem key="UD_gastos3" value="name:sum(monto);datatype:real" />
+	<infoitem key="UD_gastos4" value="name:sum(monto);datatype:real" />
+	<infoitem key="UD_productos" value="name:id_productos;datatype:int,name:marca;datatype:string,name:modelo;datatype:string,name:nombre;datatype:string,name:descripcion;datatype:string,name:tipo;datatype:string" />
+	<infoitem key="UD_ingreso" value="name:sum(monto);datatype:real" />
+	<infoitem key="UD_deudas" value="name:id_compras;datatype:int,name:fecha;datatype:date,name:num_fac;datatype:string,name:proveedor;datatype:string,name:fiador;datatype:string,name:fecha_limite;datatype:date,name:estatus;datatype:string,name:subtotal;datatype:real,name:iva;datatype:real,name:total;datatype:real" />
+	<infoitem key="UD_compras_deudas" value="name:id_compra_productos;datatype:int,name:producto;datatype:int,name:precio;datatype:real,name:factura;datatype:string,name:cantidad;datatype:int,name:transaccion;datatype:string" />
+	<infoitem key="UD_productos_deudas" value="name:id_productos;datatype:int,name:marca;datatype:string,name:modelo;datatype:string,name:nombre;datatype:string,name:descripcion;datatype:string,name:tipo;datatype:string" />
+</info>

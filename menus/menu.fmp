@@ -1,0 +1,36 @@
+<TEMPLATE APPNAME="FLASHMENU" VER_NUMBER="2" VER_LOWNUMBER="2" TYPE="1" SWF_NAME="metal-1-layer" SUB_LEVEL="1" SWF_SHOWNAME="metal-1-layer" WIDTH="900" HEIGHT="27" BGCOLOR="0xFFFFFF" FLASHBGCOLOR="0x000000" TRANSPARENT="true" AUTOSIZE="false">
+	<GROUP_ATTRIBUTE>
+		<PARAM ID="1" DF_VALUE="new item"/>
+		<PARAM ID="2" DF_VALUE=""/>
+		<PARAM ID="3" DF_VALUE="_blank,_parent,_self,_top"/>
+	</GROUP_ATTRIBUTE>
+	<GROUP_MENU>
+		<PARAM ID="1" DF_VALUE="80"/>
+		<PARAM ID="2" DF_VALUE="25"/>
+		<PARAM ID="3" DF_VALUE="0"/>
+		<PARAM ID="4" DF_VALUE="MS Reference Sans Serif"/>
+		<PARAM ID="5" DF_VALUE="11"/>
+		<PARAM ID="6" DF_VALUE="0x444444"/>
+		<PARAM ID="7" DF_VALUE="false"/>
+		<PARAM ID="8" DF_VALUE="center,left,right"/>
+		<PARAM ID="9" DF_VALUE="0"/>
+		<PARAM ID="10" DF_VALUE="4"/>
+		<PARAM ID="23" DF_VALUE="false"/>
+		<PARAM ID="24" DF_VALUE="50"/>
+		<PARAM ID="16" DF_VALUE=""/>
+		<PARAM ID="17" DF_VALUE="false"/>
+		<PARAM ID="150" DF_VALUE="false"/>
+	</GROUP_MENU>
+	<GROUP_SIZE>
+		<PARAM ID="140" DF_VALUE="900"/>
+		<PARAM ID="141" DF_VALUE="27"/>
+		<PARAM ID="142" DF_VALUE="false"/>
+	</GROUP_SIZE>
+	<GROUP_PAGE>
+		<PARAM ID="143" DF_VALUE="0xFFFFFF"/>
+		<PARAM ID="144" DF_VALUE="0x000000"/>
+		<PARAM ID="145" DF_VALUE="true"/>
+	</GROUP_PAGE>
+	<MENU>
+		<item name="Productos" url="menus/menuProductos.html" callback="onClick" target="cuerpo"/><item name="Compras" url="menus/menuCompras.html" callback="onClick" target="cuerpo"/><item name="Inventario" url="menus/menuInventario.html" callback="onClick" target="cuerpo"/><item name="Ventas" target="cuerpo"/><item name="Reportes" target="cuerpo"/><item name="Clientes" target="cuerpo"/><item name="Seguro" target="cuerpo"/><item name="Usuarios" target="cuerpo"/></MENU>
+</TEMPLATE>
